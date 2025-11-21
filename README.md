@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2.2.3-green.svg)](https://pandas.pydata.org/)
 [![mlxtend](https://img.shields.io/badge/mlxtend-0.23.4-orange.svg)](http://rasbt.github.io/mlxtend/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Mengungkap pola belanja tersembunyi menggunakan Association Rule Mining dengan algoritma Apriori
 
@@ -140,12 +139,6 @@ Based on the analysis:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat&logo=medium)](https://medium.com/@yourprofile)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
